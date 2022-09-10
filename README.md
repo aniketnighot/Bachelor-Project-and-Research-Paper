@@ -1,1 +1,1 @@
-# Bachelor-Project-and-Research-Paper
+This project was made to convert text from images to speech using Android devices. The file Presentation-Solution.pdf contains the problem statement and the provided solution, along with the sample output generated from the project. The Black Book PDF contains all the necessary details, including languages used, technologies used, output, and sample code. Also, Research_Paper-Image To Speech App.pdf is a research paper that we created during this project work.
